@@ -97,4 +97,5 @@ public class CodeBreakerTest {
 		resultado = codeBreaker.convertirNumero(convertido,original);
 		Assert.assertEquals("_X_X", resultado);
 	}
+	//pruebas 
 }
