@@ -18,7 +18,8 @@ dependencies {
 // add a new unitTest sourceSet
 sourceSets {
     unitTest {
-        java.srcDir file('test') 
+        java.srcDir file('test')
+	java.srcDir file('src')
     }
 }
 
